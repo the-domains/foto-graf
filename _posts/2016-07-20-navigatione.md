@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Hier ist eine Bildergalerie zum Test '
-datePublished: '2016-07-20T09:03:30.744Z'
-dateModified: '2016-07-20T08:53:35.090Z'
+description: Hier ist eine Bildergalerie zum Test
+datePublished: '2016-07-20T09:14:39.316Z'
+dateModified: '2016-07-20T09:03:39.131Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-20-navigatione.md
